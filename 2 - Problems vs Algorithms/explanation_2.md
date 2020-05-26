@@ -21,3 +21,7 @@ Here are the detailed breakdowns of the algorithm:
                 go right: `start = mid + 1`.
                 
             * Otherwise: go left: `end = mid - 1`
+            
+            
+* Time complexity: \mathcal{O}(\log{N})O(logN).
+* Space complexity: \mathcal{O}(1)O(1).
