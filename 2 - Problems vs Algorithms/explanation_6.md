@@ -2,4 +2,4 @@ Assigned the max and min as the first list element, and then iterate over each l
 
 Time complexity: O(n) An array traversal of length n is required and thus O(n)
 
-Space Complexity: O(n), where n is the length of the array to store the input
+Space Complexity: O(1), where n is the length of the array to store the input
