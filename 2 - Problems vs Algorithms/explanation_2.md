@@ -8,6 +8,7 @@ Here are the detailed breakdowns of the algorithm:
 
   * Now there could be two situations:
       * Pivot element is larger than the first element in the array, i.e. the subarray from the first element to the pivot is non-rotated.
+          
           - If the target is located in the non-rotated subarray: 
               go left: `end = mid - 1`.
   
